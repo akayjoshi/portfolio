@@ -32,3 +32,5 @@ function setTheme(mode){
     localStorage.setItem('theme',mode)
 
 }
+
+document.getElementById('contact-form').reset()
